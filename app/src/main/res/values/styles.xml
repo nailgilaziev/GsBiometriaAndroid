@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="swirl_ridgeColor">?android:attr/colorAccent</item>
+        <item name="swirl_errorColor">#7daf26</item>
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+        <!--<item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@drawable/bg</item>
+
+    </style>
+
+</resources>
